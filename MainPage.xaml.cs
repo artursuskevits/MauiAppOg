@@ -1,4 +1,4 @@
-﻿using AndroidX.Annotations;
+﻿
 using Microsoft.Maui.Controls;
 using System;
 using System.Collections.Generic;
