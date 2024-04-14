@@ -1,0 +1,5 @@
+Переменная Variable
+Цикл Loop
+Функция Function
+Массив Array
+Условие Condition

@@ -8,7 +8,7 @@
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:Failjob}"
-        Route="Failjob" />
+        ContentTemplate="{DataTemplate local:Cardsgame}"
+        Route="Cardsgame" />
 
 </Shell>
